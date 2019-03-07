@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    font-family: monospace;
+    font-size: 50px;
+}
+nav{
+    text-align: center;
+    background-color: darkgrey;
+    width: 100%; 
+    padding: 10px;
+    bottom: 0;
+    position: fixed;
+}
+
+nav li {
+    display: inline;
+    padding: 50px;
+    width: 100%;
+    top: 10;
+}
+
+nav a {
+    color: blue;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+#iphone{
+    background-color:lightcoral;
+    height: 450px;
+    padding: 50px; 
+    font-size: 25px;
+    text-align: center;
+    
+}
+#Mac{
+    background-color: darkcyan;
+    height: 450px;
+    padding: 50px;
+    font-size: 25px;
+    text-align: center;
+}
+
+#ipad{
+    background-color: lightyellow;
+    height: 550px;
+    padding: 50px;
+      font-size: 25px;
+    text-align: center;
+}

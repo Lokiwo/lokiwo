@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+p {
+    color: cadetblue;
+    font-family: fantasy;
+    font-size: 25px;
+}
+h1 {
+    color: seagreen;
+font-family: cursive
+}
+h2 {
+    color: rosybrown;
+    background-color: yellow
+}
+h3 {
+    font-family: serif;
+    color: coral
+}
+
+#picture {
+    width: 450px;
+    height: 250px;
+}
+
