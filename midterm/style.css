@@ -1,0 +1,97 @@
+body{
+background-color: #FEF1CA;
+}
+.stuff{
+    margin-left: 15%;
+    font-family: 'Raleway', sans-serif;
+    justify-content: center;
+    background-color:#;
+}
+h1{
+   font-family: 'Source Sans Pro',sans-serif;
+text-align: center;
+font-size: 50px;    
+text-transform: uppercase; 
+    color: black;
+}
+img { 
+    display: flex;
+    justify-content: center;
+    top:30%;
+}
+
+#opengif{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#hihi{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav{
+    text-align:left;
+    position: fixed;
+    display: block;
+    top:23%;
+    left: 0;
+    position:fixed;
+    height: 100%;
+    position:absolute; 
+    overflow: auto; 
+    right:75%;
+    position: fixed;
+    width: 15%;
+}
+
+nav li {
+    display:block;
+    width: 100%;
+    text-align: left;
+    margin-top: 60%;
+}
+
+nav a {
+    color: dimgrey;
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-transform: uppercase;
+}
+#Introduction{
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: #1200B0;
+}
+#Six{
+    text-decoration: underline;
+}
+h2{
+font-size: 35px;
+}
+h3{
+    font-size:25px;
+}
+#History{
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: #03B08D;
+}
+#Positions{
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: #B0003B;
+}
+#Seven{
+    text-decoration: underline;
+    font-size: 20px;
+}
+#Rules{
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    color: #6500B0;
+}
