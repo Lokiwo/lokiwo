@@ -1,3 +1,26 @@
+@media only screen and (min-width: 600px) {
+    #Introduction{
+        background-color: beige;}
+    #History{
+        background-color: beige;}
+    #Positions{
+        background-color: beige;}
+    #Rules{
+        background-color: beige;}
+    #Seven{background-color: beige;}
+}
+
+@media only screen and (min-width: 990px) {
+    #Introduction{
+        background-color:antiquewhite;}
+#History{
+        background-color: antiquewhite;}
+    #Positions{
+        background-color: antiquewhite;}
+    #Rules{
+        background-color: antiquewhite;}
+    #Seven{background-color: antiquewhite;}}
+
 body{
 background-color: #FEF1CA;
 }
