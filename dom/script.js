@@ -11,7 +11,7 @@ function halfNumber(){
 function percentOf(){
     var number3=document.getElementById('percent1-input').value 
     var number4=document.getElementById('percent2-input').value
-    alert(number3 + " is 50% of "+number4)
+    alert(number3 + " is " + number3/number4 +"%"+ " of " + number4)
 }
 
 function areaOfCirle(){
